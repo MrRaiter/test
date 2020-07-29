@@ -1,12 +1,15 @@
 Hi!
 
-First you should start the server with command
+First you should start the server with this commands
 ```
+git clone https://github.com/MrRaiter/test
+cd ./test/test-server
 npm start
 ```
 
-After that you should start main page
+After that you should start main page from new terminal
 ```
+cd ./test
 npm i 
 npm start
 ```
