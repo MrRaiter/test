@@ -12,7 +12,7 @@ npm start
 ```
 Thats all!
 
-There's only three tests, but if you would like to fire them use
+There's only three tests for front-end, but if you would like to fire them use
 ```
-npm test
+npm run test
 ```
